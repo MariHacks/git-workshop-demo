@@ -1,3 +1,3 @@
 # git-workshop-demo
  Programming Club Git workshop demo
-Made by Team B
+Made by Team A and Team B
